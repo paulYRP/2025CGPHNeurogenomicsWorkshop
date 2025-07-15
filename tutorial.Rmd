@@ -1,0 +1,40 @@
+---
+title: "DNA methylation analysis"
+author: "Paul Ruiz, Divya Mehta"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+    self_contained: true
+    df_print: paged
+    includes:
+      in_header: qut.Rhtml
+---
+
+# Libraries
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
+```
+
+# Working Directory  
+
+```{r}
+summary(cars)
+
+```
+
+# Load Data  
+
+```{r}
+plot(pressure)
+
+```
+
+# Contact
+
+For inquiries, please contact us at [ruizpint@qut.edu.au](mailto:ruizpint@qut.edu.au).
