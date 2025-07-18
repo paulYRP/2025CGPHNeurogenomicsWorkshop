@@ -5,9 +5,9 @@ Pre-Workshop Instructions for the Statistical Genomics and Bioinformatics
 Workshop 2025. Neurogenomics Program, CGPH
 Authors: Prof. Divya Metha, Dr. Heidi Sutherland and RA. Paul Ruiz
 
---------------
 About this document
 Setting up R, RStudio, PLINK 1.9 and files needed to run the workshop.
+
 # Step 1: Install R, RStudio and PLINK
 ## Install R
 1.	Go to the Comprehensive R Archive Network (CRAN):
@@ -25,6 +25,7 @@ https://www.cog-genomics.org/plink/1.9/
 3.	Add PLINK to your system’s PATH if you plan to run it from anywhere in the terminal:
 o	For Windows, edit the system environment variables and add the PLINK folder to PATH.
 o	For Mac/Linux, you can add it to your .bashrc or .zshrc file.
+
 # Step 2: Download the Workshop Data
 ## Visit the workshop data repository:
 https://github.com/n10962646/sgbWS2025
@@ -36,6 +37,7 @@ https://github.com/n10962646/sgbWS2025
 ```bash
 git clone https://github.com/n10962646/sgbWS2025.git
 ```
+
 # Step 3: Miscellany
 If you are new with R, please the following tutorial to familiarise yourself with it. 
 - https://shiny.qutmaths.net/LearnR/Tutorial1_UsingR/#section-installing-r-and-rstudio
