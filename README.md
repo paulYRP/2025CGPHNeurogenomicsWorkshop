@@ -6,7 +6,7 @@ Workshop 2025. Neurogenomics Program, CGPH
 
 Authors: Prof. Divya Metha, Dr. Heidi Sutherland and RA. Paul Ruiz
 
-# About this document
+## About this document
 Setting up R, RStudio, PLINK 1.9 and files needed to run the workshop.
 
 # Step 1: Install R, RStudio and PLINK
