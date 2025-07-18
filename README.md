@@ -3,6 +3,7 @@
 
 Pre-Workshop Instructions for the Statistical Genomics and Bioinformatics 
 Workshop 2025. Neurogenomics Program, CGPH
+
 Authors: Prof. Divya Metha, Dr. Heidi Sutherland and RA. Paul Ruiz
 
 # About this document
