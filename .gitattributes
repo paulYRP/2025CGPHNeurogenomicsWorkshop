@@ -1,3 +1,10 @@
 data/idats/*.idat filter=lfs diff=lfs merge=lfs -text
 *.data/*.csv filter=lfs diff=lfs merge=lfs -text
 data/*.csv filter=lfs diff=lfs merge=lfs -text
+data/R/idats/*.idat filter=lfs diff=lfs merge=lfs -text
+*data/R/*.csv filter=lfs diff=lfs merge=lfs -text
+data/PLINK/*.map filter=lfs diff=lfs merge=lfs -text
+*data/PLINK/plink filter=lfs diff=lfs merge=lfs -text
+*data/PLINK/Cheat[[:space:]]Files/*.bim filter=lfs diff=lfs merge=lfs -text
+*data/PLINK/Cheat[[:space:]]Files/*.map filter=lfs diff=lfs merge=lfs -text
+*data/PLINK/Cheat[[:space:]]Files/*.bed filter=lfs diff=lfs merge=lfs -text
