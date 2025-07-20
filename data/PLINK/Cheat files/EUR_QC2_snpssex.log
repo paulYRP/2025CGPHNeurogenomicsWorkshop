@@ -1,0 +1,30 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile EUR
+  --check-sex
+  --extract EUR_QC2_snps.prune.in
+  --keep EUR_QC1.fam
+  --out EUR_QC2_snpssex
+
+Hostname: QUT-LA00146414
+Working directory: /media/anita/Elements SE/PostDoc/StatGenWorkshop2023/DataForTutorial/EUR
+Start time: Wed Apr 12 13:28:06 2023
+
+Random number seed: 1681270086
+15782 MB RAM detected; reserving 7891 MB for main workspace.
+551892 variants loaded from .bim file.
+503 people (240 males, 263 females) loaded from .fam.
+--extract: 268457 variants remaining.
+--keep: 489 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 489 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 558 het. haploid genotypes present (see EUR_QC2_snpssex.hh ); many
+commands treat these as missing.
+Total genotyping rate in remaining samples is 0.999958.
+268457 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+--check-sex: 5229 Xchr and 0 Ychr variant(s) scanned, 4 problems detected.
+Report written to EUR_QC2_snpssex.sexcheck .
+
+End time: Wed Apr 12 13:28:07 2023

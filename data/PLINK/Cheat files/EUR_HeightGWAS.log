@@ -1,0 +1,27 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile EUR_QCFinal
+  --covar EUR_PCs.eigenvec
+  --linear hide-covar
+  --out EUR_HeightGWAS
+  --pheno EUR.height
+
+Hostname: QUT-LA00146414
+Working directory: /media/anita/Elements SE/PostDoc/StatGenWorkshop2023/DataForTutorial/EUR
+Start time: Wed Apr 12 15:23:04 2023
+
+Random number seed: 1681276984
+15782 MB RAM detected; reserving 7891 MB for main workspace.
+519070 variants loaded from .bim file.
+483 people (232 males, 251 females) loaded from .fam.
+472 phenotype values present after --pheno.
+Using 1 thread (no multithreaded calculations invoked).
+--covar: 10 covariates loaded.
+Before main variant filters, 483 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+519070 variants and 483 people pass filters and QC.
+Phenotype data is quantitative.
+Writing linear model association results to EUR_HeightGWAS.assoc.linear ...
+done.
+
+End time: Wed Apr 12 15:24:24 2023

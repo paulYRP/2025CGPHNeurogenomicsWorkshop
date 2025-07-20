@@ -1,0 +1,27 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile EUR
+  --extract mysnps.txt
+  --make-bed
+  --out EUR_mysnps
+
+Hostname: QUT-LA00146414
+Working directory: /media/anita/Elements SE/PostDoc/StatGenWorkshop2023/DataForTutorial/EUR
+Start time: Wed Apr 12 11:36:16 2023
+
+Random number seed: 1681263376
+15782 MB RAM detected; reserving 7891 MB for main workspace.
+551892 variants loaded from .bim file.
+503 people (240 males, 263 females) loaded from .fam.
+--extract: 14 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 1 het. haploid genotype present (see EUR_mysnps.hh ); many commands
+treat these as missing.
+Total genotyping rate is 0.980829.
+14 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to EUR_mysnps.bed + EUR_mysnps.bim + EUR_mysnps.fam ... done.
+
+End time: Wed Apr 12 11:36:16 2023

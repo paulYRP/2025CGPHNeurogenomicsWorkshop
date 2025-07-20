@@ -1,0 +1,24 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile EUR
+  --chr 1-22
+  --make-bed
+  --out EUR1-22
+
+Hostname: QUT-LA00146414
+Working directory: /media/anita/Elements SE/PostDoc/StatGenWorkshop2023/DataForTutorial/EUR
+Start time: Wed Apr 12 13:06:07 2023
+
+Random number seed: 1681268767
+15782 MB RAM detected; reserving 7891 MB for main workspace.
+529502 out of 551892 variants loaded from .bim file.
+503 people (240 males, 263 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.972065.
+529502 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to EUR1-22.bed + EUR1-22.bim + EUR1-22.fam ... done.
+
+End time: Wed Apr 12 13:06:08 2023

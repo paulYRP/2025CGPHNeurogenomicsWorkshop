@@ -1,0 +1,53 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile EUR
+  --extract EUR_QC1.snplist
+  --indep-pairwise 200 50 0.25
+  --keep EUR_QC1.fam
+  --out EUR_QC2
+
+Hostname: QUT-LA00146414
+Working directory: /media/anita/Elements SE/PostDoc/StatGenWorkshop2023/DataForTutorial/EUR
+Start time: Wed Apr 12 14:11:38 2023
+
+Random number seed: 1681272698
+15782 MB RAM detected; reserving 7891 MB for main workspace.
+551892 variants loaded from .bim file.
+503 people (240 males, 263 females) loaded from .fam.
+--extract: 540534 variants remaining.
+--keep: 489 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 489 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 1273 het. haploid genotypes present (see EUR_QC2.hh ); many commands
+treat these as missing.
+Total genotyping rate in remaining samples is 0.999919.
+540534 variants and 489 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 20214 variants from chromosome 1, leaving 21127.
+Pruned 20984 variants from chromosome 2, leaving 20879.
+Pruned 17463 variants from chromosome 3, leaving 17812.
+Pruned 16344 variants from chromosome 4, leaving 16690.
+Pruned 15027 variants from chromosome 5, leaving 15981.
+Pruned 20731 variants from chromosome 6, leaving 15475.
+Pruned 14046 variants from chromosome 7, leaving 14606.
+Pruned 13289 variants from chromosome 8, leaving 13667.
+Pruned 10723 variants from chromosome 9, leaving 11951.
+Pruned 12722 variants from chromosome 10, leaving 13383.
+Pruned 13053 variants from chromosome 11, leaving 12666.
+Pruned 11654 variants from chromosome 12, leaving 12500.
+Pruned 8429 variants from chromosome 13, leaving 9609.
+Pruned 8072 variants from chromosome 14, leaving 8791.
+Pruned 7978 variants from chromosome 15, leaving 8470.
+Pruned 8808 variants from chromosome 16, leaving 9500.
+Pruned 8032 variants from chromosome 17, leaving 8724.
+Pruned 7204 variants from chromosome 18, leaving 8560.
+Pruned 7014 variants from chromosome 19, leaving 6726.
+Pruned 6341 variants from chromosome 20, leaving 7508.
+Pruned 3629 variants from chromosome 21, leaving 4280.
+Pruned 4085 variants from chromosome 22, leaving 4323.
+Pruned 16235 variants from chromosome 23, leaving 5229.
+Pruning complete.  272077 of 540534 variants removed.
+Marker lists written to EUR_QC2.prune.in and EUR_QC2.prune.out .
+
+End time: Wed Apr 12 14:11:43 2023
