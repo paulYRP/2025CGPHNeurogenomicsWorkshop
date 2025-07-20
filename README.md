@@ -36,7 +36,7 @@ https://github.com/n10962646/sgbWS2025
 4.	Right-click the file and choose Extract All or Unzip depending on your system
 ## Optional for Git users: 
 ```bash
-git clone https://github.com/n10962646/sgbWS2025.git
+git clone https://github.com/n10962646/2025CGPHNeurogenomicsWorkshop.git
 ```
 
 # Step 3: Miscellany
