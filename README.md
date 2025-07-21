@@ -48,5 +48,7 @@ Install the following R packages and run all the scripts in advance to avoid del
 
 Reach out to ruizpint@qut.edu.au if you encounter any installation issues.
 
+[**DNA Methylation Tutorial**](https://n10962646.github.io/2025CGPHNeurogenomicsWorkshop/tutorial.html)
+
 
 
