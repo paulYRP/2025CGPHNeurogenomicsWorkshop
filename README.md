@@ -29,7 +29,7 @@ o	For Mac/Linux, you can add it to your .bashrc or .zshrc file.
 
 # Step 2: Download the Workshop Data
 ## Visit the workshop data repository:
-https://github.com/n10962646/sgbWS2025
+https://github.com/n10962646/2025CGPHNeurogenomicsWorkshop
 1.	On the main page, click the green Code button.
 2.	Select Download ZIP.
 3.	Save the .zip file to your computer.
@@ -47,6 +47,8 @@ If you are new with R, please the following tutorial to familiarise yourself wit
 Install the following R packages and run all the scripts in advance to avoid delays during the workshop.
 
 Reach out to ruizpint@qut.edu.au if you encounter any installation issues.
+
+[**DNA Methylation Tutorial**](https://n10962646.github.io/2025CGPHNeurogenomicsWorkshop/tutorial.html)
 
 
 
