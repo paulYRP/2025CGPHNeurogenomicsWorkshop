@@ -8,3 +8,4 @@ data/PLINK/*.map filter=lfs diff=lfs merge=lfs -text
 *data/PLINK/Cheat[[:space:]]Files/*.bim filter=lfs diff=lfs merge=lfs -text
 *data/PLINK/Cheat[[:space:]]Files/*.map filter=lfs diff=lfs merge=lfs -text
 *data/PLINK/Cheat[[:space:]]Files/*.bed filter=lfs diff=lfs merge=lfs -text
+data/PLINK/*.ped filter=lfs diff=lfs merge=lfs -text
