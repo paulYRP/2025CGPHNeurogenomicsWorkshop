@@ -38,7 +38,7 @@ https://github.com/n10962646/2025CGPHNeurogenomicsWorkshop
 4.	Right-click the file and choose Extract All or Unzip depending on your system
 ## Optional for Git users: 
 ```bash
-git clone https://github.com/n10962646/2025CGPHNeurogenomicsWorkshop.git
+https://github.com/paulYRP/2025-cpgpneurogenomics-workshop.git
 ```
 
 # Step 3: Miscellany
